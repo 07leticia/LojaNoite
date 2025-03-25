@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{C2A6589A-59CD-4DE7-92D4-B620CA7D2250}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{903863A2-47FF-44BF-B48A-7E27AF9E4817}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{9721EAE5-3389-4D57-9910-B4F2FB35C2C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIWindows", "UIWindows\UIWindows.csproj", "{14A8CDBC-83FF-4043-A404-CDA9DA727371}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9721EAE5-3389-4D57-9910-B4F2FB35C2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9721EAE5-3389-4D57-9910-B4F2FB35C2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9721EAE5-3389-4D57-9910-B4F2FB35C2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A8CDBC-83FF-4043-A404-CDA9DA727371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A8CDBC-83FF-4043-A404-CDA9DA727371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A8CDBC-83FF-4043-A404-CDA9DA727371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A8CDBC-83FF-4043-A404-CDA9DA727371}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
